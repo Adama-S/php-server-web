@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 227
+
+<!DOCTYPE html>
+<html>
+<body>
+<h2>Liste des fichiers du dossiers "/" </h2>
+<ul>
+  <li><a href="/..">..</a></li>
+  <li><a href="/demo_html">demo_html</a></li>
+  <li><a href="/demo_php">demo_php</a></li>
+</ul>  
+</body>
+</html>
+
